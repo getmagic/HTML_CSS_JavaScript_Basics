@@ -14,10 +14,12 @@
       font-size: 22pt;
     }
     p{
+      font-family: normal;
       color: purple;
       font-size: 15pt;
     }
     ul{
+      font-family: normal;
       color: maroon;
       font-size: 15pt;
     }
