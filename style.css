@@ -14,13 +14,13 @@
       font-size: 22pt;
     }
     p{
-      font-family:'Open Sans', sans-serif;
+      font-family:'Open Sans';
       color: purple;
       font-size: 15pt;
       border: 1px solid black;
     }
     ul{
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Open Sans';
       color: maroon;
       font-size: 15pt;
     }
