@@ -23,3 +23,9 @@
       color: maroon;
       font-size: 15pt;
     }
+    hr{
+        display: block;
+        border-style: inset;
+        border-width: 10px;
+    }
+        
